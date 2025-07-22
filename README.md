@@ -34,7 +34,7 @@ This project aims to analyze telecom customer churn data, extract business insig
 - 🎨 Modern, clean, professional design.
 - ✅ Interactive, segmented insights for business decision making.
 
-> 📎 Dashboard file: [`dashboard/Telco_Churn_Analysis_Dashboard.pbix`](dashboard/Telco_Churn_Analysis_Dashboard.pbix)
+> 📎 Dashboard file: [`dashboard/Telco_Churn_Analysis_Dashboard.pbix`](dashboard/Churn_Analysis_Dashboard.pbix)
 
 ---
 

@@ -56,7 +56,7 @@ This project aims to analyze telecom customer churn data, extract business insig
 
 ## 📷 **Sample Visuals**
 ### ✅ Power BI Dashboard Preview
-![Dashboard](dashboard/Telco_Churn_Analysis_Dashboard.mp4)
+![Dashboard](dashboard/Telco_Churn_Analysis_Dashboard.gif)
 
 ---
 

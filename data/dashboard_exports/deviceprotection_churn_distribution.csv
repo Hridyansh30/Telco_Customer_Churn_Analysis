@@ -1,0 +1,7 @@
+deviceprotection,churn,customer_count,churn_percentage
+No,No,1883,60.86
+No,Yes,1211,39.14
+No internet service,No,1407,92.57
+No internet service,Yes,113,7.43
+Yes,No,1873,77.46
+Yes,Yes,545,22.54

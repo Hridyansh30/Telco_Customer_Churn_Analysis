@@ -1,0 +1,9 @@
+partner,dependents,churn,customer_count,churn_percentage
+No,No,No,2157,65.76
+No,No,Yes,1123,34.24
+No,Yes,No,282,78.55
+No,Yes,Yes,77,21.45
+Yes,No,No,1233,74.59
+Yes,No,Yes,420,25.41
+Yes,Yes,No,1491,85.69
+Yes,Yes,Yes,249,14.31

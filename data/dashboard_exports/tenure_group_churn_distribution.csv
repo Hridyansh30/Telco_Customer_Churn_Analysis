@@ -1,0 +1,11 @@
+tenure_group,churn,customer_count,churn_percentage
+0-6 Months,No,686,46.67
+0-6 Months,Yes,784,53.33
+1-2 Years,No,730,71.29
+1-2 Years,Yes,294,28.71
+2-4 Years,No,1269,79.61
+2-4 Years,Yes,325,20.39
+4+ Years,No,2026,90.49
+4+ Years,Yes,213,9.51
+7-12 Months,No,452,64.11
+7-12 Months,Yes,253,35.89

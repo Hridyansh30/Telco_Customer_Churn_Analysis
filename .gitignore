@@ -1,0 +1,7 @@
+# Ignore virtual environment
+churn_env/
+churnenv2/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.pyc

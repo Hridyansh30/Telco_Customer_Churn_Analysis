@@ -1,0 +1,19 @@
+monthly_group,contract,churn,customer_count,churn_percentage
+High (>75),Month-to-month,No,837,47.34
+High (>75),Month-to-month,Yes,931,52.66
+High (>75),One year,No,525,82.03
+High (>75),One year,Yes,115,17.97
+High (>75),Two year,No,676,95.08
+High (>75),Two year,Yes,35,4.92
+Low (<35),Month-to-month,No,533,75.71
+Low (<35),Month-to-month,Yes,171,24.29
+Low (<35),One year,No,372,96.88
+Low (<35),One year,Yes,12,3.13
+Low (<35),Two year,No,632,99.22
+Low (<35),Two year,Yes,5,0.78
+Medium (35-75),Month-to-month,No,850,60.58
+Medium (35-75),Month-to-month,Yes,553,39.42
+Medium (35-75),One year,No,409,91.29
+Medium (35-75),One year,Yes,39,8.71
+Medium (35-75),Two year,No,329,97.63
+Medium (35-75),Two year,Yes,8,2.37

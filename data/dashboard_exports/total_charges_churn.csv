@@ -1,0 +1,9 @@
+total_group,churn,customer_count,churn_percentage
+High ($3k-$5k),No,876,81.95
+High ($3k-$5k),Yes,193,18.05
+Low Spend (<$1k),No,1823,63.01
+Low Spend (<$1k),Yes,1070,36.99
+Medium ($1k-$3k),No,1486,76.8
+Medium ($1k-$3k),Yes,449,23.2
+Very High (>$5k),No,978,86.17
+Very High (>$5k),Yes,157,13.83

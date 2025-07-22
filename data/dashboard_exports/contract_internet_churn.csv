@@ -1,0 +1,19 @@
+contract,internetservice,churn,customer_count,churn_percentage
+Month-to-month,DSL,No,829,67.78
+Month-to-month,DSL,Yes,394,32.22
+Month-to-month,Fiber optic,No,966,45.39
+Month-to-month,Fiber optic,Yes,1162,54.61
+Month-to-month,No,No,425,81.11
+Month-to-month,No,Yes,99,18.89
+One year,DSL,No,517,90.7
+One year,DSL,Yes,53,9.3
+One year,Fiber optic,No,435,80.71
+One year,Fiber optic,Yes,104,19.29
+One year,No,No,354,97.52
+One year,No,Yes,9,2.48
+Two year,DSL,No,611,98.07
+Two year,DSL,Yes,12,1.93
+Two year,Fiber optic,No,398,92.77
+Two year,Fiber optic,Yes,31,7.23
+Two year,No,No,628,99.21
+Two year,No,Yes,5,0.79

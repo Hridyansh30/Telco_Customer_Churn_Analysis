@@ -1,0 +1,7 @@
+internetservice,churn,customer_count,churn_percentage
+DSL,No,1957,81.0
+DSL,Yes,459,19.0
+Fiber optic,No,1799,58.11
+Fiber optic,Yes,1297,41.89
+No,No,1407,92.57
+No,Yes,113,7.43

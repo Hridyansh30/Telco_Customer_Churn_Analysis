@@ -1,0 +1,5 @@
+gender,churn,customer_count,churn_percentage
+Female,No,2544,73.04
+Female,Yes,939,26.96
+Male,No,2619,73.8
+Male,Yes,930,26.2

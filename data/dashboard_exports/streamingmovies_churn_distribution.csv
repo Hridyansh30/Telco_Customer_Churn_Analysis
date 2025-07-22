@@ -1,0 +1,7 @@
+streamingmovies,churn,customer_count,churn_percentage
+No,No,1843,66.27
+No,Yes,938,33.73
+No internet service,No,1407,92.57
+No internet service,Yes,113,7.43
+Yes,No,1913,70.05
+Yes,Yes,818,29.95

@@ -1,0 +1,7 @@
+monthly_group,churn,customer_count,churn_percentage
+High (>75),No,2038,65.34
+High (>75),Yes,1081,34.66
+Low (<35),No,1537,89.1
+Low (<35),Yes,188,10.9
+Medium (35-75),No,1588,72.58
+Medium (35-75),Yes,600,27.42
